@@ -1,18 +1,23 @@
-## Welcome to GitHub Pages
+## RebuildAmerica
 
-You can use the [editor on GitHub](https://github.com/RebuildAmerica/rebuildamerica.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+It's time for the takeback of our country. Since COVID, the world has fell into a madness that needs repair. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join me in this quest to rebuild from the ground up. 
 
-### Markdown
+It's time to try a Trickle-up approach to the world's problems instead of the trickle-down approach. For too long wealth has stayed at the top of society starting at the government and ending not far below that. COVID relief has showed us, politicians are only interested in enriching themselves. By the time relief reaches idividuals, the majority of aid is gone.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+**Bold**
+_Italic_
+`Code`
+
 ## Header 2
+
+
 ### Header 3
 
 - Bulleted
@@ -21,17 +26,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Donate Directly
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RebuildAmerica/rebuildamerica.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+rebuildamerica.eth
